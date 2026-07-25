@@ -8,7 +8,7 @@
 
 A native macOS app that gives Xcode the git it always needed.
 
-[**⬇ Download for Free**](https://gitwyn.com/download) · [**Website**](https://gitwyn.com) · [**Buy Pro — $11.99**](https://gitwyn.com/buy)
+[**⬇ Download for Free**](https://gitwyn.com/download) · [**Website**](https://gitwyn.com)
 
 Free to use · requires macOS 26 or later
 
