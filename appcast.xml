@@ -5,12 +5,12 @@
   Do not hand-edit the <item> entries — the workflow overwrites this file.
 
   Feed URL (set as SUFeedURL in the app):
-  https://raw.githubusercontent.com/karthikk9828/gitwyn/main/appcast.xml
+  https://raw.githubusercontent.com/GitwynApp/gitwyn/main/appcast.xml
 -->
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>Gitwyn</title>
-        <link>https://raw.githubusercontent.com/karthikk9828/gitwyn/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/GitwynApp/gitwyn/main/appcast.xml</link>
         <description>Most recent updates to Gitwyn</description>
         <language>en</language>
         <item>
@@ -19,7 +19,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/karthikk9828/gitwyn/releases/download/v1.0.0/Gitwyn.1.0.0.dmg" length="7655554" type="application/octet-stream" sparkle:edSignature="qy/0QsExqhC1Ow/8xU3IjzkOcJadOuS4UkZB6sMiD+6Qu2OLwU3rQWvednIrN/mhZoWYSmD+9z5hPt/RLqaaAw=="/>
+            <enclosure url="https://github.com/GitwynApp/gitwyn/releases/download/v1.0.0/Gitwyn.1.0.0.dmg" length="7655554" type="application/octet-stream" sparkle:edSignature="qy/0QsExqhC1Ow/8xU3IjzkOcJadOuS4UkZB6sMiD+6Qu2OLwU3rQWvednIrN/mhZoWYSmD+9z5hPt/RLqaaAw=="/>
         </item>
     </channel>
 </rss>
