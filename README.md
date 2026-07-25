@@ -51,7 +51,7 @@ Shelve work-in-progress with a real name and see exactly what's inside — files
 ## Links
 
 - 🌐 Website — [gitwyn.com](https://gitwyn.com)
-- 📄 [Terms](https://gitwyn.com/terms) · [Privacy](https://gitwyn.com/privacy) · [Refunds](https://gitwyn.com/refund)
+- 📄 [Terms](https://gitwyn.com/terms) · [Privacy](https://gitwyn.com/privacy)
 
 <div align="center">
 
