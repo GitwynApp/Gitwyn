@@ -30,7 +30,7 @@ Unstaged and staged, split cleanly side by side. Stage or discard a single hunk,
 
 <img src="https://gitwyn.com/screenshot-staging.png" alt="Gitwyn staging view" width="100%" />
 
-### Commit history · Pro
+### Commit history
 
 Browse the full commit graph with infinite scroll — complete messages, authors and branches, with a per-commit diff for every change. Search by message, author or hash, then branch, reset, cherry-pick or revert straight from the graph.
 
