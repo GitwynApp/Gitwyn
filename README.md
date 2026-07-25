@@ -42,27 +42,6 @@ Shelve work-in-progress with a real name and see exactly what's inside — files
 
 <img src="https://gitwyn.com/screenshot-stash.png" alt="Gitwyn stash history" width="100%" />
 
----
-
-## Pricing
-
-| | **Free** | **Pro** |
-|---|---|---|
-| Price | **$0** — free forever | **$11.99** — one-time, yours to keep |
-| Hunk-level staging, side by side | ✅ | ✅ |
-| Named stashes with full contents | ✅ | ✅ |
-| One clean commit beside your code | ✅ | ✅ |
-| Opens in any Xcode window (⌘⇧E) | ✅ | ✅ |
-| Full commit graph with infinite scroll | — | ✅ |
-| Complete messages, authors & branches | — | ✅ |
-| Search every commit (message, author, hash) | — | ✅ |
-| Per-commit diffs, file by file | — | ✅ |
-| Branch, reset, cherry-pick, revert from the graph | — | ✅ |
-
-Gitwyn is free to use. Unlock the full commit history with a one-time Pro license — no subscription. **[Buy Pro →](https://gitwyn.com/buy)**
-
----
-
 ## Download
 
 **[Download the latest release](https://gitwyn.com/download)** — always serves the newest `.dmg`.
