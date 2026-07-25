@@ -44,16 +44,13 @@ Shelve work-in-progress with a real name and see exactly what's inside — files
 
 ## Download
 
-**[Download the latest release](https://gitwyn.com/download)** — always serves the newest `.dmg`.
-
-Requires **macOS 26 or later**. Secure checkout by Paddle · your license key is emailed instantly.
+**[Download the latest release](https://gitwyn.com/download)**
 
 ---
 
 ## Links
 
 - 🌐 Website — [gitwyn.com](https://gitwyn.com)
-- 💳 Pricing — [gitwyn.com/buy](https://gitwyn.com/buy)
 - 📄 [Terms](https://gitwyn.com/terms) · [Privacy](https://gitwyn.com/privacy) · [Refunds](https://gitwyn.com/refund)
 
 <div align="center">
