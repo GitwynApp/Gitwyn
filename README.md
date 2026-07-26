@@ -25,7 +25,7 @@ Press <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>E</kbd> in any Xcode window to get star
 ## ✨ Features
 
 *  **100% Native macOS App** - Built specifically for macOS and Xcode, ensuring high performance, low memory usage, and native UI feel.
-* 🛠 **Seamless Xcode Integration** - Triggered instantly with a hotkey, opening directly on top of your active Xcode project.
+* 🛠 **Seamless Xcode Integration** - Triggered instantly with a hotkey, opening directly on top of your active Xcode project. Gitwyn automatically detects the current project open in Xcode and uses it.
 * 🔍 **Granular Staging** - Stage or discard individual files, single hunks, or specific lines with a clean side-by-side view.
 * 🌳 **Infinite Commit Graph** - Browse your entire project history with infinite scroll, complete with authors, branches, and commit messages.
 * ⏪ **Advanced Git Actions** - Branch, reset, cherry-pick, or revert commits straight from the graphical interface.
