@@ -6,13 +6,7 @@
 
 <div align="center">
 
-<!-- <img src="https://gitwyn.com/logo.png" alt="Gitwyn" width="88" height="88" /> -->
-
-# Gitwyn
-
-### The git feature Xcode forgot.
-
-A native macOS app that gives Xcode the git it always needed.
+A native macOS app that gives Xcode the Git features it always needed.
 
 [**⬇️ Download for Free**](https://gitwyn.com/download) · [**gitwyn.com**](https://gitwyn.com)
 
@@ -30,8 +24,8 @@ Press <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>E</kbd> in any Xcode window to get star
 
 ## ✨ Features
 
-* 🍎 **100% Native macOS App** - Built specifically for macOS and Xcode, ensuring high performance, low memory usage, and native UI feel.
-* 🛠 **Seamless Xcode Integration** - Triggered instantly with a global hotkey, opening directly alongside your active code.
+*  **100% Native macOS App** - Built specifically for macOS and Xcode, ensuring high performance, low memory usage, and native UI feel.
+* 🛠 **Seamless Xcode Integration** - Triggered instantly with a hotkey, opening directly on top of your active Xcode project.
 * 🔍 **Granular Staging** - Stage or discard individual files, single hunks, or specific lines with a clean side-by-side view.
 * 🌳 **Infinite Commit Graph** - Browse your entire project history with infinite scroll, complete with authors, branches, and commit messages.
 * ⏪ **Advanced Git Actions** - Branch, reset, cherry-pick, or revert commits straight from the graphical interface.
