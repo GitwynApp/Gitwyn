@@ -100,7 +100,6 @@ Please don't hesitate to report an issue, suggest a feature, or send your feedba
 ## Links
 
 - 🌐 Website — [gitwyn.com](https://gitwyn.com)
-- 📄 [Terms](https://gitwyn.com/terms) · [Privacy](https://gitwyn.com/privacy)
 
 <div align="center">
 
