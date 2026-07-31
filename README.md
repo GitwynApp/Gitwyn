@@ -43,6 +43,7 @@ Git client.
 * 🛠 **Seamless Xcode Integration** — Triggered instantly with a hotkey, opening directly on top of your active Xcode project. Gitwyn automatically detects the current project open in Xcode and uses it.
 * 🔍 **Granular Staging** — Stage or discard individual files, single hunks, or specific lines with a clean side-by-side view.
 * 🌳 **Infinite Commit Graph** — Browse your entire project history with infinite scroll, complete with authors, branches, and commit messages.
+* ⚔️ **Merge Conflict Resolution** — Work through every conflicted hunk with current and incoming changes side by side, accept either with one click, or jump into Xcode for the tricky ones.
 * 🔀 **Instant Checkout** — Search and check out any branch or tag from a single command palette, without touching the terminal.
 * ⏪ **Advanced Git Actions** — Branch, reset, cherry-pick, or revert commits straight from the graphical interface.
 * 📦 **Smart Stashing** — Name your stashes and see exactly what's inside (files, hunks, add/delete counts) before popping or applying.
@@ -61,6 +62,12 @@ Unstaged and staged, split cleanly side by side. Stage or discard a single hunk,
 Browse the full commit graph with infinite scroll — complete messages, authors and branches, with a per-commit diff for every change. Search by message, author or hash, then branch, reset, cherry-pick or revert straight from the graph.
 
 <img src="screenshots/screenshot-commits.png" alt="Gitwyn commit graph" width="100%" />
+
+### Resolve merge conflicts without leaving Xcode
+
+Every conflicted file in one list, each hunk shown as current versus incoming with an Accept button on either side. Take one, take the other, or open the file in Xcode for the ones that need real thought — then commit the merge from the same panel.
+
+<img src="screenshots/screenshot-conflicts.png" alt="Gitwyn merge conflict view with current and incoming changes side by side" width="100%" />
 
 ### Switch branches without breaking flow
 
