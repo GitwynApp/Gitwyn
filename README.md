@@ -42,6 +42,8 @@ Git client.
 * **100% Native macOS App** — Built specifically for macOS and Xcode, ensuring high performance, low memory usage, and native UI feel.
 * 🛠 **Seamless Xcode Integration** — Triggered instantly with a hotkey, opening directly on top of your active Xcode project. Gitwyn automatically detects the current project open in Xcode and uses it.
 * 🔍 **Granular Staging** — Stage or discard individual files, single hunks, or specific lines with a clean side-by-side view.
+* ✍️ **AI Commit Messages** — Press Generate and Gitwyn drafts the message from what you actually staged, using Apple Intelligence on your own Mac. No API key, no account, and the diff never leaves the machine.
+* 🎨 **Your Xcode Theme** — The diff is drawn in the colours and font you already picked in Xcode — keywords, strings, comments, weights and all — so Gitwyn looks like the editor it sits beside.
 * 🌳 **Infinite Commit Graph** — Browse your entire project history with infinite scroll, complete with authors, branches, and commit messages.
 * ⚔️ **Merge Conflict Resolution** — Work through every conflicted hunk with current and incoming changes side by side, accept either with one click, or jump into Xcode for the tricky ones.
 * 🔀 **Instant Checkout** — Search and check out any branch or tag from a single command palette, without touching the terminal.
@@ -51,11 +53,17 @@ Git client.
 
 ---
 
-### Stage exactly what you mean
+### A commit message, written for you
 
-Unstaged and staged, split cleanly side by side. Stage or discard a single hunk, watch the per-file counts update, and ship one clean commit — right beside the code you just wrote.
+Press Generate and Gitwyn drafts the message from what you actually staged. It runs on Apple Intelligence, on your Mac — no API key to paste, no account to make, and the diff never leaves the machine. What you get is a draft in the box, not a commit: edit it, regenerate it, or type straight over it.
 
-<img src="screenshots/screenshot-staging.png" alt="Gitwyn staging view" width="100%" />
+On a Mac without Apple Intelligence, Gitwyn summarises the staged files instead — the button still does something useful.
+
+<img src="screenshots/screenshot-staging.png" alt="Gitwyn staging view with the Generate button in the commit bar" width="100%" />
+
+### Looks like the editor it sits beside
+
+Gitwyn reads the theme Xcode is using and draws the diff in it — the same colours for keywords, strings, types and comments, the same font, down to the rows you set bold. Change your theme in Xcode and Gitwyn follows on the next launch.
 
 ### Full commit history with graph
 
