@@ -15,6 +15,8 @@ with the Git tools Xcode always needed.
 
 [![Download for Free](https://img.shields.io/badge/⬇%20%20Download%20for%20Free-7C6CFF?style=for-the-badge&labelColor=7C6CFF&color=4F8CFF)](https://gitwyn.com/download)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6V0240V6V)
+
 <br />
 
 ![Platform](https://img.shields.io/badge/macOS-26%2B-1c1c22?style=flat-square)
