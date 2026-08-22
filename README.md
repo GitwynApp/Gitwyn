@@ -6,6 +6,20 @@
 
 <div align="center">
 
+<a href="https://youtu.be/GQgIaTbWUXg">
+  <img src="screenshots/video-poster.jpg" alt="Watch the Gitwyn demo - git inside Xcode" width="100%" />
+</a>
+
+### ▶︎ [Watch the demo](https://youtu.be/GQgIaTbWUXg)
+
+Every feature in Gitwyn, in under eight minutes.
+
+</div>
+
+---
+
+<div align="center">
+
 # Supercharge Git workflow in Xcode
 
 A native macOS Git client for Xcode — the Git overlay that opens right beside your code,
@@ -48,12 +62,20 @@ Git client.
 * 🔍 **Granular Staging** — Stage or discard individual files, single hunks, or specific lines with a clean side-by-side view.
 *  **Infinite Commit Graph** — Browse your entire project history with infinite scroll, complete with authors, branches, and commit messages.
 * ⚔️ **Merge Conflict Resolution** — Work through every conflicted hunk with current and incoming changes side by side, accept either with one click, or jump into Xcode for the tricky ones.
+* ⌨️ **Command Panel** — Every command in the app in one <kbd>⌘</kbd> <kbd>P</kbd> list with its shortcut beside it, so the keyboard is discoverable instead of something you look up.
 * 🔀 **Instant Checkout** — Search and check out any branch or tag from a single command palette, without touching the terminal.
+* ⚙️ **Rebindable Shortcuts** — Every action has its own shortcut in Settings, including the one that opens Gitwyn, so a clash with something else on your Mac takes seconds to fix.
 * ⏪ **Advanced Git Actions** — Branch, reset, cherry-pick, or revert commits straight from the graphical interface.
 * 📦 **Smart Stashing** — Name your stashes and see exactly what's inside (files, hunks, add/delete counts) before popping or applying.
 * 🔒 **Privacy First** — Everything runs locally on your machine. Your source code never leaves your Mac.
 
 ---
+
+### Every change, in one scroll
+
+Changed files on the left, every diff on the right, one after another. Stage a whole file, or take a single hunk — usually what you want, because you fixed the bug and cleaned up two lines while you were in there.
+
+<img src="screenshots/screenshot-staging.png" alt="Gitwyn showing changed files beside their diffs, with staged and unstaged sections" width="100%" />
 
 ### A commit message, written for you
 
@@ -61,7 +83,13 @@ Press Generate and Gitwyn drafts the message from what you actually staged. It r
 
 On a Mac without Apple Intelligence, Gitwyn summarises the staged files instead — the button still does something useful.
 
-<img src="screenshots/screenshot-staging.png" alt="Gitwyn staging view with the Generate button in the commit bar" width="100%" />
+<img src="screenshots/screenshot-commit-message.png" alt="Gitwyn commit bar with the Generate button drafting a message from the staged diff" width="100%" />
+
+### One shortcut to reach every other
+
+<kbd>J</kbd> and <kbd>K</kbd> walk the files, <kbd>Space</kbd> stages the one you're on, <kbd>C</kbd> jumps to the message box. You don't have to remember any of that — press <kbd>⌘</kbd> <kbd>P</kbd> and every command in the app is there with its shortcut sitting next to it.
+
+<img src="screenshots/screenshot-command-panel.png" alt="Gitwyn command panel listing every command beside its keyboard shortcut" width="100%" />
 
 ### Looks like the editor it sits beside
 
@@ -90,6 +118,12 @@ Search and check out any branch or tag from a single command palette — no term
 Shelve work-in-progress with a real name and see exactly what's inside — files, hunks, add and delete counts. Apply, pop or drop from a list that actually tells you what you saved.
 
 <img src="screenshots/screenshot-stash.png" alt="Gitwyn stash history" width="100%" />
+
+### Bind it to whatever you already press
+
+Every action in Gitwyn has its own shortcut in Settings, including the one that opens Gitwyn itself — so if <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>E</kbd> is already taken on your Mac, change it. Font size, diff mode and how the panel behaves live in the same place.
+
+<img src="screenshots/screenshot-settings.png" alt="Gitwyn settings, where every action can be given its own keyboard shortcut" width="100%" />
 
 ---
 
