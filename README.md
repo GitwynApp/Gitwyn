@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="screenshots/gitwyn-banner.png" alt="Gitwyn Banner" width="100%" />
-</div>
-
----
-
-<div align="center">
 
 <a href="https://youtu.be/GQgIaTbWUXg">
   <img src="screenshots/video-poster.jpg" alt="Watch the Gitwyn demo - git inside Xcode" width="100%" />
@@ -12,7 +6,7 @@
 
 ### ▶︎ [Watch the demo](https://youtu.be/GQgIaTbWUXg)
 
-Every feature in Gitwyn, in under eight minutes.
+Every feature in Gitwyn, in under five minutes.
 
 </div>
 
