@@ -23,7 +23,9 @@ with the Git tools Xcode always needed.
 
 [![Download for Free](https://img.shields.io/badge/⬇%20%20Download%20for%20Free-7C6CFF?style=for-the-badge&labelColor=7C6CFF&color=4F8CFF)](https://gitwyn.com/download)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6V0240V6V)
+<a href="https://ko-fi.com/F6V0240V6V">
+  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" width="220" />
+</a>
 
 <br />
 
@@ -144,7 +146,9 @@ Please don't hesitate to report an issue, suggest a feature, or send your feedba
 
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6V0240V6V)
+<a href="https://ko-fi.com/F6V0240V6V">
+  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" width="220" />
+</a>
 
 Thanks for trying Gitwyn. 🎉
 
