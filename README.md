@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://youtu.be/GQgIaTbWUXg">
-  <img src="screenshots/video-poster.jpg" alt="Watch the Gitwyn demo - git inside Xcode" width="100%" />
+  <img src="screenshots/video-poster.png" alt="Watch the Gitwyn demo - git inside Xcode" width="100%" />
 </a>
 
 ### ▶︎ [Watch the demo](https://youtu.be/GQgIaTbWUXg)
