@@ -14,6 +14,14 @@
         <description>Most recent updates to Gitwyn</description>
         <language>en</language>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Tue, 25 Aug 2026 14:35:19 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GitwynApp/Gitwyn/releases/download/v1.2.2/Gitwyn-1.2.2.dmg" length="9073436" type="application/octet-stream" sparkle:edSignature="eCFN+Xi3iqfNDtzKbCbQFDk5cAtD363p8LPzvVxAQwc/vc+1ePo7ruwf4bVz56NVMMxdZ2JsUu5BamcgbeuIBg=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Mon, 24 Aug 2026 01:00:39 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
@@ -28,14 +36,6 @@
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/GitwynApp/Gitwyn/releases/download/v1.2.0/Gitwyn-1.2.0.dmg" length="8710273" type="application/octet-stream" sparkle:edSignature="vfRwb5jHGKI19c6YRb4QvUmlIIsnX2swUQXDbFJmzhiZgEHkuQ3b/xsuBnF7Nl7ydOQ1yyAuQDXM+9uERxhxAQ=="/>
-        </item>
-        <item>
-            <title>1.1.2</title>
-            <pubDate>Tue, 18 Aug 2026 14:59:49 +0000</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/GitwynApp/Gitwyn/releases/download/v1.1.2/Gitwyn-1.1.2.dmg" length="8435696" type="application/octet-stream" sparkle:edSignature="lSjT+Z6KGXh88YbQSyewqqZPECy9O+dR/bcUwAoottE/qJixdGF896ZPrQm1AWEBX8iIl5dSOYnGgKpKB/3WDg=="/>
         </item>
     </channel>
 </rss>
