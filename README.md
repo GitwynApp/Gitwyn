@@ -25,6 +25,10 @@ with the Git tools Xcode always needed.
   <img src="screenshots/download-button.png" alt="Download for Free" height="44" />
 </a>
 
+![Platform](https://img.shields.io/badge/macOS-26%2B-1c1c22?style=flat-square)
+![Native](https://img.shields.io/badge/SwiftUI-native-1c1c22?style=flat-square)
+![Price](https://img.shields.io/badge/price-free-43D17A?style=flat-square)
+
 <br />
 
 <a href="https://ko-fi.com/F6V0240V6V">
@@ -33,12 +37,6 @@ with the Git tools Xcode always needed.
 <a href="https://www.buymeachai.in/karthikk9828">
   <img src="screenshots/chai-button.png" alt="Buy me a chai with UPI" height="44" />
 </a>
-
-<br />
-
-![Platform](https://img.shields.io/badge/macOS-26%2B-1c1c22?style=flat-square)
-![Native](https://img.shields.io/badge/SwiftUI-native-1c1c22?style=flat-square)
-![Price](https://img.shields.io/badge/price-free-43D17A?style=flat-square)
 
 **[gitwyn.com](https://gitwyn.com)** · Free to use · requires macOS 26 or later
 
