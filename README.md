@@ -30,6 +30,7 @@ with the Git tools Xcode always needed.
 ![Price](https://img.shields.io/badge/price-free-43D17A?style=flat-square)
 
 <br />
+<br />
 
 <a href="https://ko-fi.com/F6V0240V6V">
   <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" height="44" />
