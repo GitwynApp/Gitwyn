@@ -21,10 +21,17 @@ with the Git tools Xcode always needed.
 
 <br />
 
-[![Download for Free](https://img.shields.io/badge/⬇%20%20Download%20for%20Free-7C6CFF?style=for-the-badge&labelColor=7C6CFF&color=4F8CFF)](https://gitwyn.com/download)
+<a href="https://gitwyn.com/download">
+  <img src="screenshots/download-button.png" alt="Download for Free" height="44" />
+</a>
+
+<br />
 
 <a href="https://ko-fi.com/F6V0240V6V">
-  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" width="220" />
+  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" height="44" />
+</a>
+<a href="https://www.buymeachai.in/karthikk9828">
+  <img src="screenshots/chai-button.png" alt="Buy me a chai with UPI" height="44" />
 </a>
 
 <br />
@@ -123,7 +130,9 @@ Every action in Gitwyn has its own shortcut in Settings, including the one that 
 
 ## Download
 
-[![Download for Free](https://img.shields.io/badge/⬇%20%20Download%20for%20Free-7C6CFF?style=for-the-badge&labelColor=7C6CFF&color=4F8CFF)](https://gitwyn.com/download)
+<a href="https://gitwyn.com/download">
+  <img src="screenshots/download-button.png" alt="Download for Free" height="44" />
+</a>
 
 Free to use · requires macOS 26 or later
 
@@ -147,7 +156,10 @@ Please don't hesitate to report an issue, suggest a feature, or send your feedba
 <div align="center">
 
 <a href="https://ko-fi.com/F6V0240V6V">
-  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" width="220" />
+  <img src="screenshots/kofi-button.png" alt="Support me on Ko-fi" height="44" />
+</a>
+<a href="https://www.buymeachai.in/karthikk9828">
+  <img src="screenshots/chai-button.png" alt="Buy me a chai with UPI" height="44" />
 </a>
 
 Thanks for trying Gitwyn. 🎉
