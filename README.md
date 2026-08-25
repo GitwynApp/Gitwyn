@@ -26,6 +26,7 @@ with the Git tools Xcode always needed.
 </a>
 
 <br />
+<br />
 
 ![Platform](https://img.shields.io/badge/macOS-26%2B-1c1c22?style=flat-square)
 ![Native](https://img.shields.io/badge/SwiftUI-native-1c1c22?style=flat-square)
