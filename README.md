@@ -25,6 +25,8 @@ with the Git tools Xcode always needed.
   <img src="screenshots/download-button.png" alt="Download for Free" height="44" />
 </a>
 
+<br />
+
 ![Platform](https://img.shields.io/badge/macOS-26%2B-1c1c22?style=flat-square)
 ![Native](https://img.shields.io/badge/SwiftUI-native-1c1c22?style=flat-square)
 ![Price](https://img.shields.io/badge/price-free-43D17A?style=flat-square)
